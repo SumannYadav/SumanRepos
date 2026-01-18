@@ -1,1 +1,2 @@
 my first file from Developer 2
+Changes made by developer 1
